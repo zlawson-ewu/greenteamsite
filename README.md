@@ -8,3 +8,5 @@ It was created to match a given set of screenshots of the site's various pages, 
 The site was also suppose to provide a live uptime view of other servers on its landing page, but the instructions given for the competition were unclear about what we were allowed to 
 touch on said servers (including setting up access for the VM on which this site was hosted), so placeholders are used on the landing page. Otherwise, this site matched the given 
 screenshots exactly and netted us most of the points for this category.
+
+I was personally responsible for the creation of the site in its entirety.
