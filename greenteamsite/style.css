@@ -1,0 +1,166 @@
+#header {
+	position: sticky;
+	top: 0%;
+}
+
+#header table {
+	text-align: center;
+	margin: auto;
+	border: 1px groove blue;
+	background-color: lightblue;
+	table-layout: fixed;
+	border-collapse: collapse;
+}
+
+#header td {
+	width: 20%;
+	border: 1px groove blue;
+	padding: 1%;
+}
+
+#header img {
+	max-width: 100%;
+	height: auto;
+}
+
+
+
+#main {
+	text-align: center;
+	border: 2px groove black;
+	margin: auto;
+	padding: 2%;
+}
+
+#inner {
+	margin: auto;
+	width: 90%;
+	padding: 5%;
+	background-color: lightgreen;
+	display: inline-block;
+}
+
+
+
+#panels {
+	padding: 2%;
+}
+
+#panels img {
+	padding: 2%;
+	height: auto;
+	max-width: 100%;
+	border-radius: 10%;
+}
+
+#data {
+	width: 60%;
+	margin: auto;
+	border: 2px groove black;
+}
+
+#data table {
+	width: 100%;
+	margin: auto;
+}
+
+#data th {
+	background-color: mediumaquamarine;
+	text-align: center;
+	border: 1px groove aquamarine;
+}
+
+#data td {
+	text-align: center;
+}
+
+
+
+#blurb {
+	text-align: center;
+	margin: auto;
+	background-color: white;
+	padding: 5%;
+	border-radius: 10%;
+	border: 2px groove black;
+}
+
+#blurb table {
+	margin: auto;
+	text-align: center;
+	width: 100%;
+}
+
+#blurb td {
+	background-color: lavender;
+	padding: 5%;
+	border-radius: 5%;
+}
+
+#blurb h1 {
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+#blurb p {
+	font-family: "Arial", Helvetica, sans-serif;
+}
+
+
+
+#info {
+	text-align: center;
+	margin: auto;
+	background-color: white;
+	padding: 5%;
+	border-radius: 10%;
+	border: 2px groove black;
+	width: 30%;
+	float: left;
+}
+
+#input {
+	text-align: center;
+	margin: auto;
+	background-color: white;
+	padding: 5%;
+	border-radius: 10%;
+	border: 2px groove black;
+	width: 30%;
+	float: right;
+}
+
+
+
+#logincreds {
+	text-align: center;
+	margin: auto;
+	background-color: white;
+	padding: 5%;
+	border-radius: 10%;
+	border: 2px groove black;
+}
+
+
+
+#footer {
+	position: relative;
+	margin: auto;
+	bottom: 0%;
+	padding: 2%;
+}
+
+#footer table {
+	text-align: center;
+	table-layout: fixed;
+}
+
+#footer td {
+	width: 33%;
+	background-color: lightsalmon;
+	padding: 1%;
+}
+
+#footer img {
+	height: auto;
+	max-width: 100%;
+}
