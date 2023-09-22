@@ -1,5 +1,5 @@
 # greenteamsite
-Green team site for CyberForce 2022
+Green Team Website for CyberForce 2022
 
 This collection of files formed the "Green Team" site used one of EWU's teams in the DoE's CyberForce 2022 competition. 
 
